@@ -52,7 +52,7 @@ const MyPage = (value, onChange) =>
     />
   </div>;
 ```
-Check [docs](https://github.com/jpuri/react-range-slider/tree/master/docs) for more examples.
+Check [docs](https://github.com/gitchilliuk/react-range-slider/tree/master/docs) for more examples.
 
 ## List of properties supported
 | Option | Description |

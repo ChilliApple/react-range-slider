@@ -1,8 +1,3 @@
-# React Sliders
-
-An collection of elegant slider components for React.
-[Demo Page](http://jpuri.github.io/react-range-slider/).
-
 ## Installing
 
 The library is available as npm package.

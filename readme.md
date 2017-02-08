@@ -99,4 +99,5 @@ Making it a complete range of slider components with addition of components like
 [motivation](https://jqueryui.com/slider/).
 
 ## License
-MIT.
+[MIT](https://opensource.org/licenses/MIT).
+
